@@ -28,13 +28,3 @@ It dies when hits itself...
 ... Or the walls.
 
 ![walls collision](imgs/wall-collision.gif)
-
-## Authors :octocat:
-
-|             ![Josivan][author1]           |         ![Natalia][author2]           |
-|:-----------------------------------------:|:-------------------------------------:|
-|[Josivan](https://github.com/JoMedeiros/)  | [Natalia](https://github.com/bnatalha)|
-
-[author1]: https://avatars3.githubusercontent.com/u/23501167?s=180&v=4
-[author2]: https://avatars1.githubusercontent.com/u/26307836?s=180&v=4
-
