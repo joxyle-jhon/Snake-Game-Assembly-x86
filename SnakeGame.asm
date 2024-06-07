@@ -153,7 +153,7 @@ dozen9_start:	.word 0x10011294, 0x10011298, 0x1001129C,
 
 	
 	# Loading starting values...
-	li $s0, 3		# load initial score (size of the initial snake)
+	li $s0, 0		# load initial score (size of the initial snake)
 	li $s4, 3		# Head x_pos
 	li $s5, 2		# Head y_pos
 	li $s6, 0x10010704	# Tracking the tail to erase
