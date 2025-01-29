@@ -1,6 +1,6 @@
 # Snake Game using Assembly x86 (MIPS)
 
-## Intro
+## Introduction
 
 This is a version of classic snake game for MIPS processor written in Assembly.
 
